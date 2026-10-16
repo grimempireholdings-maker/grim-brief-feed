@@ -1,0 +1,84 @@
+name: Sync podcast feed
+
+on:
+  schedule:
+    - cron: '30 9 * * 1-5'
+      timezone: America/New_York
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/sync-feed.yml'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'feed.xml'
+      - 'index.html'
+      - 'cover.jpg'
+      - '.nojekyll'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: podcast-feed-and-pages
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Check out main
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+
+      - name: Test episode identity and archive preservation
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Sync the public Muse source
+        run: python3 scripts/sync_feed.py
+
+      - name: Commit new episodes if changed
+        shell: bash
+        run: |
+          set -euo pipefail
+          if ! git diff --quiet -- feed.xml; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add -- feed.xml
+            git commit -m "Sync public podcast episodes"
+            git push origin HEAD:main
+          else
+            # Check repository write access even when there are no new episodes.
+            git push --dry-run origin HEAD:main
+          fi
+
+      # Bot commits do not trigger branch-based Pages builds. Deploy this exact
+      # validated output in the same workflow, including when no commit is needed.
+      - name: Stage only public site files
+        run: |
+          mkdir -p _site
+          cp feed.xml index.html cover.jpg .nojekyll _site/
+
+      - name: Upload the public site
+        uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4
+        with:
+          path: _site
+
+  deploy:
+    needs: sync
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy the updated RSS feed
+        id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4
