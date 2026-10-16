@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Grim Brief</title>
+    <link>https://grimempireholdings-maker.github.io/grim-brief-feed/</link>
+    <atom:link href="https://grimempireholdings-maker.github.io/grim-brief-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <copyright>2026 GRIM EMPIRE HOLDINGS LLC</copyright>
+    <description>AI and tech news, with receipts. Rook and Vesper deliver the verified stories that matter every weekday morning — every consequential claim checked against two sources, single sources labeled, zero filler. AI Generated.</description>
+    <itunes:author>JULIAN SHELTON</itunes:author>
+    <itunes:summary>AI and tech news, with receipts. Rook and Vesper deliver the verified stories that matter every weekday morning — every consequential claim checked against two sources, single sources labeled, zero filler. AI Generated.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>GRIM EMPIRE HOLDINGS LLC</itunes:name>
+      <itunes:email>sheljulian96@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://grimempireholdings-maker.github.io/grim-brief-feed/cover.jpg"/>
+    <image>
+      <url>https://grimempireholdings-maker.github.io/grim-brief-feed/cover.jpg</url>
+      <title>The Grim Brief</title>
+      <link>https://grimempireholdings-maker.github.io/grim-brief-feed/</link>
+    </image>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>The Grim Brief — Public Premiere (Oct 16, 2026)</title>
+      <description>The public premiere: Meta's open-weight Muse Spark Open, agentic coding moves into your IDE, the Fed's AI-inflation warning, the P&amp;G earnings preview, Tesla's Roadster moment, and your weekend watchlist. New episodes every weekday morning. AI Generated.</description>
+      <pubDate>Fri, 16 Oct 2026 21:00:00 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1386220001233313/95178f7a-9eb6-4e22-b8b3-580826012077/ep-8f4b5694-b3d8-427d-ab61-31e897a24fe0.mp3" length="3176677" type="audio/mpeg"/>
+      <guid isPermaLink="false">grim-brief-premiere-2026-10-16</guid>
+      <itunes:duration>6:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
