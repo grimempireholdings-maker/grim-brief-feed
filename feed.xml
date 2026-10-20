@@ -23,6 +23,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Grim Brief — Tuesday, October 20, 2026</title>
+      <description>A hacker used AI agents to breach more than one hundred company websites for about fifty dollars a hack, Microsoft rolled out new security controls to leash rogue agents, and OpenAI is racing to raise thirty billion dollars at a valuation above one point four trillion dollars ahead of Anthropic's IPO.
+
+AI Generated</description>
+      <pubDate>Tue, 20 Oct 2026 12:49:36 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1386220001233313/95178f7a-9eb6-4e22-b8b3-580826012077/ep-a5b8cbe8-cf3e-46b7-9119-7864a1b65e15.mp3" length="3927973" type="audio/mpeg" />
+      <guid isPermaLink="false">ep-a5b8cbe8-cf3e-46b7-9119-7864a1b65e15</guid>
+      <itunes:duration>8:10</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Grim Brief — Monday, October 19, 2026 (Public)</title>
       <description>Rook and Vesper on Tenstorrent's $1.5B Series E, NVIDIA's open-weight Nemotron drop, BAND's multi-agent coding workspace, the Power to the Players Act, and Disney's Character.AI bid.
 
