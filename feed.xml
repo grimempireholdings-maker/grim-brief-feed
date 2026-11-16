@@ -23,6 +23,42 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Grim Brief — Monday, November 16, 2026 (Public)</title>
+      <description>The IMF warns AI circular financing has passed one trillion dollars, Tencent's Hy4 Flash drops model prices to cents, Google's agent teams prove a math conjecture, Europe drafts rules for shopping agents, and Xbox clarifies Project Helix.
+
+AI Generated</description>
+      <pubDate>Mon, 16 Nov 2026 13:51:55 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1386220001233313/95178f7a-9eb6-4e22-b8b3-580826012077/ep-048f1432-c8e7-43d4-8a9f-cb4fe11f4a14.mp3" length="4016485" type="audio/mpeg" />
+      <guid isPermaLink="false">ep-048f1432-c8e7-43d4-8a9f-cb4fe11f4a14</guid>
+      <itunes:duration>8:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Grim Brief — Monday, November 16, 2026</title>
+      <description>Alibaba's Qwen4-Max launches at a dollar fifty per million tokens, LangChain raises three hundred million dollars to govern agents, and Nvidia earnings, a noon Fed speech, and Anthropic's expected IPO pricing stack up this week.
+
+AI Generated</description>
+      <pubDate>Mon, 16 Nov 2026 12:49:46 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1386220001233313/95178f7a-9eb6-4e22-b8b3-580826012077/ep-81a00f87-a260-408a-85ba-3418d93e76d4.mp3" length="3798565" type="audio/mpeg" />
+      <guid isPermaLink="false">ep-81a00f87-a260-408a-85ba-3418d93e76d4</guid>
+      <itunes:duration>7:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Grim Brief — Sunday, November 15, 2026</title>
+      <description>The FAA ground stop fallout strands fifteen thousand flights, OpenAI's ChatGPT Wallet lets agents pay with your fingerprint, Ohio gas drops thirty-four cents, and Nvidia earnings plus a December Fed hike decision loom.
+
+AI Generated</description>
+      <pubDate>Sun, 15 Nov 2026 12:50:15 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1386220001233313/95178f7a-9eb6-4e22-b8b3-580826012077/ep-167188c5-07b9-428a-8d70-cb4e866fdf66.mp3" length="3769765" type="audio/mpeg" />
+      <guid isPermaLink="false">ep-167188c5-07b9-428a-8d70-cb4e866fdf66</guid>
+      <itunes:duration>7:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Grim Brief — Friday, November 13, 2026 (Public)</title>
       <description>Google's fast Gemini 4 Hydrogen lands, Anthropic lets companies self-host its agents, OpenAI's Daybreak agents attack and patch code, SpaceX plans seventy-four billion dollars of AI campuses, and Gemini smart glasses open for pre-order.
 
