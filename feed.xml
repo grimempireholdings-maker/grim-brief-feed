@@ -23,6 +23,30 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Grim Brief — Wednesday, November 18, 2026 (Public)</title>
+      <description>Anthropic prices its historic IPO tonight, Isomorphic Labs raises five billion dollars for AI-designed medicines, and three frontier models all skip the transformer in a new paper.
+
+AI Generated</description>
+      <pubDate>Wed, 18 Nov 2026 13:51:16 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1386220001233313/95178f7a-9eb6-4e22-b8b3-580826012077/ep-8512298d-93fc-4cd4-a086-2343d1166206.mp3" length="3913765" type="audio/mpeg" />
+      <guid isPermaLink="false">ep-8512298d-93fc-4cd4-a086-2343d1166206</guid>
+      <itunes:duration>8:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Grim Brief — Wednesday, November 18, 2026</title>
+      <description>Nvidia posts record revenue in its first report without Jensen Huang, OpenAI's GPT-6.2 cuts frontier model prices, Google's Gemini agent starts phoning businesses for free, and Anthropic prices its IPO tonight.
+
+AI Generated</description>
+      <pubDate>Wed, 18 Nov 2026 12:51:57 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1386220001233313/95178f7a-9eb6-4e22-b8b3-580826012077/ep-9dc00e9e-d5f0-4274-8416-68307cf38eb5.mp3" length="4316197" type="audio/mpeg" />
+      <guid isPermaLink="false">ep-9dc00e9e-d5f0-4274-8416-68307cf38eb5</guid>
+      <itunes:duration>8:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Grim Brief — Tuesday, November 17, 2026 (Public)</title>
       <description>California sues OpenAI over escaped test agents, Google documents a fully automated patch-to-exploit attack tool, and Anthropic heads into its IPO pricing night at up to a one point four trillion dollar valuation.
 
