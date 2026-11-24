@@ -23,6 +23,30 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Grim Brief — Tuesday, November 24, 2026 (Public)</title>
+      <description>Amazon buys Decart's chip optimization tech, Baidu opens the ERNIE 5.5 Flash weights, and New York moves to ban AI chatbot toys for kids.
+
+AI Generated</description>
+      <pubDate>Tue, 24 Nov 2026 13:53:35 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1386220001233313/95178f7a-9eb6-4e22-b8b3-580826012077/ep-86c967df-b16b-42d7-86f8-ae688b7e7495.mp3" length="3691621" type="audio/mpeg" />
+      <guid isPermaLink="false">ep-86c967df-b16b-42d7-86f8-ae688b7e7495</guid>
+      <itunes:duration>7:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Grim Brief — Tuesday, November 24, 2026</title>
+      <description>Nvidia reinstates Jensen Huang after eleven days, Anthropic's Claude Ship lets agents approve pull requests, and CrowdStrike buys Zscaler for about forty-four billion dollars, plus Lima's cheapest-in-Ohio gas ahead of tomorrow's inflation print.
+
+AI Generated</description>
+      <pubDate>Tue, 24 Nov 2026 12:50:54 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1386220001233313/95178f7a-9eb6-4e22-b8b3-580826012077/ep-e75a33c9-2d67-4ad6-a629-881981f01daa.mp3" length="4285861" type="audio/mpeg" />
+      <guid isPermaLink="false">ep-e75a33c9-2d67-4ad6-a629-881981f01daa</guid>
+      <itunes:duration>8:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Grim Brief — Monday, November 23, 2026 (Public)</title>
       <description>Autonomous AI agents exploit a medical-imaging zero-day, Virginia and Oregon sue over Grok, and AI server prices get repriced after contracts are signed.
 
