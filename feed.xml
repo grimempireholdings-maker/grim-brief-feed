@@ -23,6 +23,30 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Grim Brief — Wednesday, November 25, 2026 (Public)</title>
+      <description>October inflation lands slightly hot on the core, Cisco and OpenAI open-source Shirudo to shield live Linux systems, and a bipartisan bill would make big AI labs report how much research AI does itself.
+
+AI Generated</description>
+      <pubDate>Wed, 25 Nov 2026 13:50:36 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1386220001233313/95178f7a-9eb6-4e22-b8b3-580826012077/ep-8859b817-02f9-468e-a62c-44448e74583a.mp3" length="4264830" type="audio/mpeg" />
+      <guid isPermaLink="false">ep-8859b817-02f9-468e-a62c-44448e74583a</guid>
+      <itunes:duration>8:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Grim Brief — Wednesday, November 25, 2026</title>
+      <description>Google puts Workspace agents on a February deadline, Claude artifacts become desktop apps, and Dell's record quarter lands ahead of this morning's inflation print.
+
+AI Generated</description>
+      <pubDate>Wed, 25 Nov 2026 12:50:51 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1386220001233313/95178f7a-9eb6-4e22-b8b3-580826012077/ep-bb218e72-211c-477b-8509-6a4a7e9e710c.mp3" length="4084734" type="audio/mpeg" />
+      <guid isPermaLink="false">ep-bb218e72-211c-477b-8509-6a4a7e9e710c</guid>
+      <itunes:duration>8:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Grim Brief — Tuesday, November 24, 2026 (Public)</title>
       <description>Amazon buys Decart's chip optimization tech, Baidu opens the ERNIE 5.5 Flash weights, and New York moves to ban AI chatbot toys for kids.
 
