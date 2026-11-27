@@ -23,6 +23,30 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Grim Brief — Friday, November 27, 2026 (Public)</title>
+      <description>DeepMind's agents now run Gemini experiments with part of the lab's own compute, OpenAI corrects a GPT-6.2 billing error that tightens usage limits, and Canada puts a billion dollars behind AI computing power.
+
+AI Generated</description>
+      <pubDate>Fri, 27 Nov 2026 13:49:59 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1386220001233313/95178f7a-9eb6-4e22-b8b3-580826012077/ep-09bd76d9-18e4-449b-b895-d7600a53015f.mp3" length="3253861" type="audio/mpeg" />
+      <guid isPermaLink="false">ep-09bd76d9-18e4-449b-b895-d7600a53015f</guid>
+      <itunes:duration>6:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Grim Brief — Friday, November 27, 2026</title>
+      <description>Nvidia pauses AI server shipments to Southeast Asia, forty-two state attorneys general fight Character.AI's plan to auction user chats, and Lima's five Opportunity Zones get their start date.
+
+AI Generated</description>
+      <pubDate>Fri, 27 Nov 2026 12:51:11 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1386220001233313/95178f7a-9eb6-4e22-b8b3-580826012077/ep-d4577ad6-3f3c-4437-8bc8-5b5ab67f0194.mp3" length="4359486" type="audio/mpeg" />
+      <guid isPermaLink="false">ep-d4577ad6-3f3c-4437-8bc8-5b5ab67f0194</guid>
+      <itunes:duration>9:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Grim Brief — Thursday, November 26, 2026 (Public)</title>
       <description>The F C C clears SpaceX to deploy up to one million orbital data center satellites, Cognition's new coding model doubles its own test scores, and New York bans A I chatbot toys for five years.
 
